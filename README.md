@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently working on<br>Turning messy data into pipelines people actually trust.<br><br>👯 I’m looking to collaborate on<br>Data, analytics, and practical AI projects with real users.<br><br>🤝 I’m looking for help with<br>Making data pipelines simpler, faster, and less fragile.<br><br>🌱 I’m currently learning<br>Better data modeling and how to use LLMs without overengineering.<br><br>💬 Ask me about<br>SQL, Python, analytics engineering, or why dashboards fail.<br><br>⚡ Fun fact<br>I can sing and debug SQL at the same time.
 
 
